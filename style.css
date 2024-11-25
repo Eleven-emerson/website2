@@ -1,0 +1,61 @@
+ body {
+    font-family: 'Roboto',sans-serif;
+    /* height: ; */
+    display: block;
+    align-items: center;
+    justify-content: center;
+    /* display: block; */
+    background: url(../img.jpg/img.jpg.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+ h1{
+   /* font-size: larger; */
+   font-family:serif;
+ }
+ .container{
+    width: 400px;
+    height: 300px;
+    padding: 33px;
+    margin: auto;
+    background:linear-gradient(blue,rgba(78, 115, 209, 0.832),black);
+    opacity: 0.9;
+    border-radius:15px;
+    /* text-align: center; */
+    margin-top: 55px;
+ }
+ #inp{
+    color: rgb(40, 40, 72);
+    width: 55%;
+    padding:10px 10px 10px  ;
+    border-radius: 19px;
+    border: 0;
+ }
+ #add,#Delete{
+    padding: 12px; 
+background-color: rgb(36, 36, 136);
+border: 1px solid white;
+    color: white;
+    border-radius: 19px;
+
+
+    /* width: 55%; */
+ }
+ ul ,li {
+    color: black;
+    font-family: serif;
+    /* display: block; */
+    /* word-wrap: normal spacing 1px; */
+    /* justify-content: space-between; */
+ }
+ li {
+   
+   width: 70% ;
+background-color: rgb(36, 36, 136);
+ color:black;
+ padding: 10px;
+ list-style: none  ;
+ /* display: none; */
+ border-radius: 19px;
+ 
+ }
